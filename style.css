@@ -1,0 +1,49 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.announcement {
+    background-color: dodgerblue
+}
+
+.map {
+    align-content: center;
+}
+
+body {
+    text-align: center;
+}
+
+.todo {
+    width: 500px;
+    height: 400px;
+}
+
+#video {
+    width: 100%;
+}
+
+.div_todo {
+    border: 1px solid grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.list-group-item
+{
+    width: 100%;
+    float:none;
+}
